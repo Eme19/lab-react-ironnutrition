@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+col{
+ 
+}
+form{
+width: 60%;
+margin-left: 24rem;
+
+}
+
+.Button-style{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+Col{
+  margin-bottom: 2rem;
+}
+
+.label-style{
+  float: left;
+  padding-left: 0.8rem;
+  padding-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+
